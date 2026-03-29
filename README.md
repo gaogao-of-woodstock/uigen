@@ -1,4 +1,4 @@
-# UIGen - GW's practice
+# UIGen - try to create a github directory this time 1!!!!!
 
 AI-powered React component generator with live preview.
 
