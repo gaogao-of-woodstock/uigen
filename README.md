@@ -1,4 +1,4 @@
-# UIGen
+# UIGen - GW's practice
 
 AI-powered React component generator with live preview.
 
